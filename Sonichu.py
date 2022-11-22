@@ -81,7 +81,7 @@ async def leave(ctx):
 
     
 
-bot.run('OTA1NTIxNzk0ODY0Mjc1NDg2.Gp0kuo.3hC_GsuZ2qECSiUTy4AsmafO0TekmWVuyklUs0')
+bot.run('')
 
 
 
